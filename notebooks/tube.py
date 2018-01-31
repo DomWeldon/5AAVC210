@@ -1,0 +1,68 @@
+lines = [
+    {
+        'name': 'Piccadilly',
+        'stations': [
+            "King's Cross St Pancras",
+            "Russell Square",
+            "Holborn",
+            "Covent Garden",
+            "Leicester Square",
+            "Piccadilly Circus",
+            "Green Park",
+            "Hyde Park Corner",
+            "Knightsbridge",
+            "South Kensington",
+            "Gloucester Road",
+         ],
+    },
+    {
+        'name': 'Central',
+        'stations': [
+            "Notting Hill Gate",
+            "Queensway",
+            "Lancaster Gate",
+            "Marble Arch",
+            "Bond Street",
+            "Oxford Circus",
+            "Tottenham Court Road",
+            "Holborn",
+            "Chancery Lane",
+            "St Paul's",
+            "Bank",
+            "Liverpool Street"
+         ],
+    },
+    {
+        'name': 'Victoria',
+        'stations': [
+            "King's Cross St Pancras",
+            "Euston",
+            "Warren Street",
+            "Oxford Circus",
+            "Green Park",
+            "Victoria",
+            "Pimlico",
+            "Vauxhall",
+            "Stockwell",
+            "Brixton",
+         ],
+    },
+    
+    {
+        'name': 'Bakerloo',
+        'stations': [
+            "Paddington",
+            "Edgware Road",
+            "Marylebone",
+            "Baker Street",
+            "Regent's Park",
+            "Oxford Circus",
+            "Piccadilly Circus",
+            "Charing Cross",
+            "Embankment",
+            "Waterloo",
+            "Lambeth North",
+            "Elephant & Castle",
+         ],
+    },
+]
